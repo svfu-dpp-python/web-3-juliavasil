@@ -1,0 +1,24 @@
+.container {
+    display: flex;
+    justify-content: space-around;
+}
+
+.movie {
+    width: 30%;
+    padding: 30px;
+    margin: 30px;
+    border: 1px solid #000000;
+    text-align: center;
+}
+
+img {
+    max-width: 100%;
+}
+
+h2 {
+    margin-top: 10px;
+}
+
+p {
+    color: #000000;
+}
